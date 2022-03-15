@@ -1,5 +1,12 @@
 - 👋 Hi, I’m @Florexianer
-- 👀 I’m interested in Coding with JavaScript and Java
-- 🌱 I’m currently learning PHP and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 
+
+#Skills
+-Javascript
+-Vue
+-PHP  
+-HTML
+-CSS
+-mySQL
+-Oracle
+-<sub><sup>Java</sup></sub>
