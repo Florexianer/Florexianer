@@ -2,6 +2,7 @@
 - 👀 
 
 #Skills
+
 -Javascript
 -Vue
 -PHP  
@@ -9,4 +10,4 @@
 -CSS
 -mySQL
 -Oracle
--
+-<sub><sup>Java</sup></sub>
