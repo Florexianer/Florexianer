@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Florexianer
+<h1>👋 Hi, I’m @Florexianer</h1>
  
  👀
-<h1>Skills</h1>
+<h2>Skills</h2>
 <br>
 -Javascript<br>
 -Vue<br>
