@@ -4,8 +4,7 @@ I love programming
 -Javascript<br>
 -Vue<br>
 -PHP<br>
--HTML<br>
--CSS<br>
+-Tailwind<br>
 -mySQL<br>
 -Oracle<br>
 
